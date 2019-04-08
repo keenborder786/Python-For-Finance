@@ -6,7 +6,7 @@ from sklearn import svm,neighbors
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import VotingClassifier,RandomForestClassifier
 
-def process_data_for_labels(ticker):
+def process_data_foabels(ticker):
     hm_days=7
     df=pd.read_csv("sp500_joined_closes.csv",index_col=0)
     tickers=df.columns.values.tolist()
