@@ -6,4 +6,10 @@ Quant,Zipline-Again Tutorials Learned from internet to get aware about live trad
 
 Stock-Price-Prediction-Regression-Used Regression to predict future prices of a random stock from PSX100
 
+Option Pricing-Used Stock Price Brownian equation:
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2a3c0d1dcb510719effde045c26f1a9d0b9cb2d">
+to value two types of option call and put option
+
+Brownian Stock Price Predictor-Used the above equation to simulate stock price movement in python
+
 
